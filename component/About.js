@@ -20,7 +20,7 @@ const About = () => {
             I learned about programming since
             <br /> grade 10 high school or just about 8 months ago.
             <br />
-            I master the basic Web Fundamentals such as
+            I able the basic Web Fundamentals such as
             <br />
             Html, Css, Js, and Php native
           </p>
