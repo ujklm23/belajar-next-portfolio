@@ -7,8 +7,8 @@ const About = () => {
           <img src="/education.svg" alt="education" width="230" />
           <h3>Education</h3>
           <p>
-            I am an Elementary and Junior
-            <br /> High School graduate, currently studying at High School.
+            I am an Elementary and Junior High School graduate, currently
+            studying at High School.
             <br />I aspire to continue my education at a Public University.
             Hopes to gain knowledge in several universities
           </p>
